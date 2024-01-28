@@ -187,3 +187,4 @@ node_modules/prisma/prisma-client/scripts/get-packed-client.js
 node_modules/prisma/prisma-client/scripts/postinstall.d.ts
 node_modules/prisma/prisma-client/scripts/postinstall.js
 node_modules/prisma/scripts/preinstall-entry.js
+node_modules
